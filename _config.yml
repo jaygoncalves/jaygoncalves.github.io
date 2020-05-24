@@ -28,18 +28,18 @@ github:
   username: jaygoncalves             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: muqduq           # change to your twitter username
 
 social:
   name: Jason Goncalves                  # it will shows as the copyright owner in Footer
   email: Jason.Goncalves@pm.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/muqduq      # change to your twitter homepage
+    - https://github.com/jaygoncalves      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jaygoncalves
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
