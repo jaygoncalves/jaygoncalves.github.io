@@ -6,7 +6,7 @@ categories: [Blogging, Demo]
 tags: [splunk, learning]
 ---
 
-## Splunk Error on fresh instal
+## Splunk Error on fresh install
 
 * * *
 
