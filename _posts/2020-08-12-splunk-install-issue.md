@@ -2,7 +2,7 @@
 title: That first time Splunk Error
 author: muqduq
 date: 2020-08-12
-categories: [Blogging, Demo]
+categories: [Blogging, Learning]
 tags: [splunk, learning]
 ---
 
